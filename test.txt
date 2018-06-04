@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 test 2
+=======
+>>>>>>> parent of aa4e49a... commit to repository
